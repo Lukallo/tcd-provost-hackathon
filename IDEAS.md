@@ -16,8 +16,8 @@ Impact 25% · Alignment 20% · Innovation 20% · Feasibility 20% · Human-centre
 | 4 | Live step-free campus routes | People & Wellbeing | 3 | 5 | 3 | 4 | 5 | **3.90** |
 | 5 | Renter warm-home kit | Climate & Nature / Communities | 4 | 4 | 3 | 3 | 4 | **3.60** |
 | 6 | Student rental scam check | Sustainable Communities | 4 | 4 | 3 | 3 | 4 | **3.60** |
-| 7 | Ball-season wardrobe library | Responsible Consumption | 3 | 4 | 3 | 4 | 4 | **3.55** |
-| 8 | Adopt-a-patch campus rewilding | Climate & Nature | 3 | 5 | 3 | 4 | 3 | **3.60** |
+| 7 | Adopt-a-patch campus rewilding | Climate & Nature | 3 | 5 | 3 | 4 | 3 | **3.60** |
+| 8 | Ball-season wardrobe library | Responsible Consumption | 3 | 4 | 3 | 4 | 4 | **3.55** |
 
 ---
 
