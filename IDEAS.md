@@ -81,3 +81,71 @@ Before choosing, ask these about each idea:
 
 Smoulder (#1, ideally merged with #2) passes all four if someone on the team can do basic electronics and we get one ranger or
 farmer conversation in before the day.
+
+---
+
+# 25 ideas
+
+Format: **Idea**: what it is. *Exists:* what's out there → **our angle**. *Prototype:* what to show on the day.
+
+## Climate & Nature (SDGs 6, 13, 14, 15)
+
+1. **Smoulder**: ground stakes that catch peat and upland fires, including underground smoulder, plus a register for legal burns.
+   *Exists:* Silvanet (tree-mounted, built for forests) → **open landscape, underground fires, and sorting legal from illegal burns.** *Prototype:* ESP32 + CO sensor + temperature probe in compost, with an incense-stick demo. See [`WILDFIRE.md`](WILDFIRE.md).
+2. **Bog water-table → payments**: cheap logger that proves a rewetted bog is wet, so the landowner gets paid.
+   *Exists:* research dataloggers → **priced for one farmer; the output is a payment claim.** *Prototype:* pipe in a bucket + dashboard showing €/yr.
+3. **Farm-gate nitrate alert**: test strip + phone camera reading on farm drains, combined with the rain forecast → "don't spread slurry this week".
+   *Exists:* sparse EPA stations, lab tests → **same-day, on the farm, tied to a decision the farmer already makes.** *Prototype:* phone flow + strip colour chart.
+4. **Ghost-gear deposit**: tagged fishing nets, a deposit paid back when the net is returned, and a bounty for anyone who recovers a lost one.
+   *Exists:* smart buoys, Fishing for Litter → **the economics, not the hardware.** *Prototype:* deposit maths for one Irish harbour.
+5. **Hedgerow sound check**: cheap audio recorders + automatic bird and bat ID give farmers evidence for results-based biodiversity payments.
+   *Exists:* AudioMoth, BirdNET (research tools) → **packaged as evidence for a farmer's payment.** *Prototype:* run BirdNET on a recording from a hedge on campus.
+6. **Rain-garden street kits**: planters that soak up roof runoff, so less rain overloads sewers and causes overflows into rivers and Dublin Bay.
+   *Exists:* council sustainable drainage schemes → **one street at a time, crowdfunded, with a counter showing litres kept out of the sewer.** *Prototype:* street storyboard + a downpipe-to-planter model.
+7. **Invasives work-party app**: map rhododendron or knotweed patches and fill volunteer clearing days for them.
+   *Exists:* iNaturalist and Biodiversity Ireland records (they map but don't organise the work) → **turning a map pin into a filled work party.** *Prototype:* app mock-up for Killarney.
+8. **Seagrass seed-bag kits**: volunteers sew and plant seed bags to restore seagrass meadows that store carbon.
+   *Exists:* Project Seagrass (UK) → **an Irish coastal version run through clubs and schools.** *Prototype:* kit + volunteer journey.
+
+## Responsible Consumption (SDGs 2, 12)
+
+9. **Vape battery take-back**: deposit + return bin at the shop counter; cells are harvested for reuse.
+   *Exists:* WEEE take-back rules → **return at the point of sale, and value from the recovered cells.** *Prototype:* bin mock-up + flow from return to reuse.
+10. **Canteen bin camera**: cheap camera over the waste bin in school or hospital canteens measures what gets thrown away, so kitchens can adjust portions.
+    *Exists:* Winnow (commercial kitchens, priced for them) → **a version cheap enough for public canteens.** *Prototype:* photos of a tray → a "waste by dish" chart.
+11. **One-cup Dublin**: a single deposit cup accepted at any café, instead of each chain running its own scheme.
+    *Exists:* separate schemes for each brand → **one cup that works across the city.** *Prototype:* cup + return-point map + café cost maths.
+12. **Salvage marketplace**: materials taken from demolitions and renovations (doors, radiators, timber), listed for builders and DIYers.
+    *Exists:* Rotor DC (Belgium) → **an Irish version during the housing build-out.** *Prototype:* listing flow + one real demolition priced.
+13. **Baby gear library**: rent prams, slings and cots through maternity hospitals; they're used for months and then discarded.
+    *Exists:* general libraries of things → **reaching parents through the hospital, when they need the gear.** *Prototype:* service blueprint + pricing.
+14. **Repair or replace?**: photograph a broken appliance → estimated repair cost, CO₂ saved, nearest repair café.
+    *Exists:* repair cafés, iFixit → **the decision at the moment it's made.** *Prototype:* phone flow for 3 appliances.
+15. **Debs & wedding wardrobe**: rent or swap outfits worn once, run with schools and alterations shops.
+    *Exists:* some rental shops → **a school-based exchange with tailoring included.** *Prototype:* storyboard + one school's numbers.
+
+## Sustainable Communities (SDG 11)
+
+16. **Waste-heat matchmaker**: match small heat sources (supermarket fridges, server rooms, breweries) with nearby heat users.
+    *Exists:* large district heating (e.g. Tallaght) → **small local matches.** *Prototype:* map of one neighbourhood with 3 matches.
+17. **Street heat-pump group buy**: neighbours on one street retrofit together to cut survey, install and grant-paperwork costs.
+    *Exists:* SEAI one-stop shops (one house at a time) → **one street at a time.** *Prototype:* street sign-up flow + cost-per-house curve.
+18. **Derelict → meanwhile use**: map of vacant and derelict buildings matched to community groups for temporary use.
+    *Exists:* derelict sites registers, vacancy taxes → **matching buildings to users, not just listing them.** *Prototype:* map + one building's "meanwhile" plan.
+19. **Rural ride-share for older people**: volunteer drivers for trips Local Link buses don't cover.
+    *Exists:* Local Link, informal lifts → **booking by phone call, not an app.** *Prototype:* phone script + matching flow.
+20. **Shared cargo bikes for small shops**: a pool of e-cargo bikes shared by high-street shops for local deliveries.
+    *Exists:* courier companies → **shared ownership between shops.** *Prototype:* shop journey + cost vs. van.
+21. **School-roof solar for the street**: solar on a school roof, with neighbours buying the surplus power and the school earning from it.
+    *Exists:* micro-generation export payments → **neighbours sharing in it.** *Prototype:* one real school roof modelled.
+
+## People & Wellbeing (SDGs 3, 4, 5, 10)
+
+22. **Weather-triggered check-ins**: heatwaves or cold snaps automatically start calls to isolated older people and alert a neighbour.
+    *Exists:* ALONE and befriending services → **triggered by the weather, so contact happens when risk is highest.** *Prototype:* call script + alert flow.
+23. **Classroom CO₂ traffic light**: a cheap CO₂ sensor with a red/amber/green light tells the class when to open a window.
+    *Exists:* CO₂ monitors given to schools → **designed for children to act on, not just a number on a display.** *Prototype:* working sensor + light.
+24. **Climate anxiety → local action**: tell it your skills and free hours, get matched to a nearby climate project.
+    *Exists:* volunteering sites → **built for young people who feel anxious about climate, with results shown back to them.** *Prototype:* matching flow mock-up.
+25. **Step-free nature**: trails mapped and rated for wheelchairs, buggies and limited mobility.
+    *Exists:* general trail apps → **access details collected by people who use them.** *Prototype:* 3 Dublin trails mapped.
