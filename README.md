@@ -4,6 +4,7 @@ Trinity Entrepreneurship Hub × ZEEUS · **Sat 24 Oct 2026, 10:00–16:00** · M
 
 - [`IDEAS.md`](IDEAS.md) — concrete environmental ideas, scored against the judging criteria
 - [`WILDFIRE.md`](WILDFIRE.md) — deep dive: a wildfire sensor concept for peat and uplands vs. Silvanet
+- [`BIG_IDEAS.md`](BIG_IDEAS.md) — big, innovative ideas checked against what already exists
 - [`REALISTIC.md`](REALISTIC.md) — small, profitable ideas a student team could start this term
 - [`VENTURES.md`](VENTURES.md) — bigger ideas with real business models: who pays and why now
 - [`PLAN.md`](PLAN.md) — what to do before the day, the day itself, and the pitch skeleton
