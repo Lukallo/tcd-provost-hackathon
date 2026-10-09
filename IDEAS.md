@@ -1,101 +1,83 @@
 # Idea brainstorm
 
-Teams form on the day, so treat these as **problem spaces to bring to the table**, not fixed pitches.
-The best edge we can walk in with is *evidence*: a few real conversations and a couple of sourced numbers for 2–3 of these.
+Ideas can be anything environmental. They don't have to be campus-based. Each idea lists **what already exists**,
+because judges will ask, and the Innovation score depends on having a clear answer.
 
-Scores are first-pass gut calls (1–5) weighted by the judging criteria — redo them with the team.
+Scores are first-pass gut calls (1–5) weighted by the judging criteria. Redo them with the team.
 Impact 25% · Alignment 20% · Innovation 20% · Feasibility 20% · Human-centred 15%.
+Numbers marked *(verify)* came from memory, not a source; check them before they go in a pitch.
 
 ## Shortlist
 
 | # | Idea | Area | Imp | Align | Innov | Feas | HCD | **Weighted** |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Move-out → Move-in kit loop | Responsible Consumption | 4 | 5 | 3 | 5 | 4 | **4.20** |
-| 2 | Commuter-student "line buddies" | People & Wellbeing | 4 | 4 | 4 | 4 | 5 | **4.15** |
-| 3 | Free-food-after-events alert | Responsible Consumption | 3 | 5 | 3 | 5 | 4 | **3.95** |
-| 4 | Live step-free campus routes | People & Wellbeing | 3 | 5 | 3 | 4 | 5 | **3.90** |
-| 5 | Renter warm-home kit | Climate & Nature / Communities | 4 | 4 | 3 | 3 | 4 | **3.60** |
-| 6 | Student rental scam check | Sustainable Communities | 4 | 4 | 3 | 3 | 4 | **3.60** |
-| 7 | Adopt-a-patch campus rewilding | Climate & Nature | 3 | 5 | 3 | 4 | 3 | **3.60** |
-| 8 | Ball-season wardrobe library | Responsible Consumption | 3 | 4 | 3 | 4 | 4 | **3.55** |
+| 1 | **Smoulder** — peat & upland fire watch ([deep dive](WILDFIRE.md)) | Climate & Nature | 4 | 5 | 4 | 3 | 3 | **3.85** |
+| 2 | Bog water-table sensors → rewetting payments | Climate & Nature | 4 | 5 | 4 | 3 | 3 | **3.85** |
+| 3 | Farm-gate nitrate alert | Climate & Nature | 4 | 5 | 3 | 3 | 4 | **3.80** |
+| 4 | Ghost-gear tag & bounty | Climate & Nature | 4 | 5 | 3 | 3 | 3 | **3.65** |
+| 5 | Small-source waste-heat matchmaker | Sustainable Communities | 4 | 4 | 3 | 3 | 3 | **3.45** |
+| 6 | Vape battery take-back | Responsible Consumption | 3 | 4 | 3 | 4 | 3 | **3.40** |
 
 ---
 
-## People & Wellbeing (SDGs 3, 4, 5, 10)
+## 1. Smoulder — wildfire detection for peat and uplands
+Silvanet is built for forests: gas sensors mounted on trees, about 1 per hectare. Ireland's fires are on open heath, gorse and
+bog, many are deliberate, and drained peat can burn *underground* for weeks. The idea is ground stakes with a soil
+temperature probe and a CO sensor, a wind-aware sparse network, and a register for legal controlled burns so they don't trigger false alarms.
+**Full write-up: [`WILDFIRE.md`](WILDFIRE.md).**
 
-**Commuter-student "line buddies"** — Dublin rents push many students to commute long distances, and commuters miss
-the evening social life where friendships form. Match students on the same DART / Luas / Irish Rail line and
-timetable so they travel and study together, and give them a daytime "home base" on campus.
-*Prototype:* a sign-up flow + a WhatsApp-community pilot for one line. *Test before the day:* ask 5 commuters
-what they miss most.
+## 2. Bog water-table sensors → rewetting payments
+- **Problem:** Rewetting drained peatland is one of Ireland's biggest climate levers, but proving that a bog is actually wet
+  (and so storing carbon) needs monitoring that small landowners can't afford.
+- **Idea:** A cheap water-table logger plus a farmer dashboard that turns readings into evidence for agri-environment or
+  carbon payments.
+- **Exists:** research-grade dataloggers; national peatland programmes. **Angle:** priced for a single farmer, and the result
+  is a payment, not just a dataset.
+- **Prototype:** a pipe in a bucket of wet compost with an ultrasonic or pressure sensor, and a dashboard mock-up showing "€/yr earned".
+- *Pairs naturally with #1.* The same stake does both jobs, which makes this a strong combined pitch.
 
-**Live step-free campus routes** — cobbles, steps and old buildings make Trinity hard to navigate in a wheelchair,
-with crutches or a buggy, and a broken lift can wreck a route. A crowd-updated map of step-free routes and lift status.
-*Prototype:* annotated campus map + "report a lift" flow. *Check:* what the Disability Service already publishes.
+## 3. Farm-gate nitrate alert
+- **Problem:** Agricultural nitrogen is the main pressure on Irish rivers. EPA reports put roughly half of rivers below
+  good ecological status *(verify)*.
+- **Idea:** A low-cost nitrate test strip + phone camera reader for farm drains, linked to rainfall forecasts. It tells the
+  farmer "don't spread slurry this week, here's why" in plain language.
+- **Exists:** EPA monitoring stations (sparse), lab tests, the ASSAP advisory programme. **Angle:** farm-level, same-day, and
+  framed around timing decisions the farmer already makes.
+- **Prototype:** a phone flow + a printed strip colour chart.
 
-**First-term belonging for international students** — a structured "first six weeks" buddy programme run by
-second years who were international students themselves.
+## 4. Ghost-gear tag & bounty
+- **Problem:** Lost and abandoned fishing gear keeps catching marine life for years. A widely cited figure is about 640,000 t
+  a year globally *(verify)*.
+- **Idea:** Cheap ID tags on nets + a deposit scheme. Fishers pay a small deposit per tagged net and get it back when the net is returned. Anyone who
+  recovers a lost tagged net gets a bounty.
+- **Exists:** smart-buoy trackers (e.g. Blue Ocean Gear), Fishing for Litter programmes. **Angle:** the deposit/bounty
+  economics, not the hardware.
+- **Prototype:** a service blueprint + a tag mock-up + the deposit maths for one Irish harbour.
 
-**Peer support while waiting** — a light-touch, trained-peer check-in for students on a counselling waiting list.
-*Careful:* clinical risk; feasibility needs a credible safeguarding answer.
+## 5. Small-source waste-heat matchmaker
+- **Problem:** Data centres use around a fifth of Ireland's electricity *(verify: CSO)* and give off heat. Tallaght's district heating
+  already uses heat from a data centre, but smaller sources (supermarket fridges, server rooms, breweries) are ignored.
+- **Idea:** A map + calculator that matches small heat sources with nearby heat users (pools, apartment blocks,
+  greenhouses) and estimates the payback.
+- **Exists:** large district-heating projects and national heat studies. **Angle:** small, local matches that don't need a city scheme.
+- **Prototype:** a map of one Dublin neighbourhood with 3 real matches worked out.
 
-## Sustainable Communities (SDG 11)
-
-**Student rental scam check** — fake listings and deposit scams hit students (especially international ones) hard.
-A verification checklist + "send us the listing" service, with a shared register of reported scams.
-*Check:* what the Students' Union accommodation advice already does.
-
-**Generations under one roof** — match older homeowners who have a spare room with students: lower rent in exchange
-for company and small help. *Check:* existing homeshare schemes in Ireland and the Rent-a-Room tax relief —
-innovation has to come from what they don't do.
-
-**Bike-theft-proof cycling** — theft puts people off cycling in Dublin. Secure, registered bike parking + a
-recovery register. *Check:* what Dublin City Council and the Gardaí already run.
-
-**Safe routes home at night** — walking routes with lit, busy segments and "walk with me" buddying.
-
-## Responsible Consumption (SDGs 2, 12)
-
-**Move-out → Move-in kit loop** — every May, students leaving halls and rentals bin kettles, pans, duvets and
-lamps; every September new students (often international) buy the same things new. Collect at move-out, store over
-summer, redistribute as low-cost "starter kits" at Freshers' Week.
-*Why it's strong:* easy to measure (kg diverted, € saved per student), runnable on Trinity's own halls next term,
-and the user is obvious and easy to interview. *Prototype:* service blueprint + a kit "menu" + pricing.
-*Open questions:* summer storage, hygiene (duvets), who runs it — SU, a society, Accommodation Office?
-
-**Free-food-after-events alert** — society events over-order pizza and sandwiches; the leftovers get binned while
-some students skip meals. A one-tap "leftovers here, room X, 20 minutes" alert. Food waste *and* food
-insecurity in one idea. *Check:* how this differs from Too Good To Go (they cover businesses, not events).
-
-**Ball-season wardrobe library** — formal outfits bought for one night (Trinity Ball, society balls). A
-borrow/rent wardrobe run by students with alterations/repairs. *Check:* existing vintage/swap societies.
-
-**Lab plastics** — gloves, pipette tip boxes and packaging from research labs. Take-back and reuse schemes.
-Good innovation score if someone on the team has lab experience.
-
-## Climate & Nature (SDGs 6, 13, 14, 15)
-
-**Renter warm-home kit** — renters live in cold, draughty homes they're not allowed to retrofit. A reversible
-kit (draught strips, thermal curtains, radiator reflectors) + a script for asking the landlord about SEAI grants.
-Hits climate, energy poverty and wellbeing at once. *Feasibility check:* real savings from reversible measures.
-
-**Adopt-a-patch campus rewilding** — student groups adopt a patch of lawn for pollinator planting and record
-species over the year. *Check:* Trinity's existing biodiversity plans and the All-Ireland Pollinator Plan.
-
-**Citizen-science river watch** — students sample the Dodder / Liffey / Grand Canal and publish open water-quality data.
-
-**Rail-first travel** — help students and staff choose rail/ferry over flights for trips home and conferences.
-Weaker on innovation; existing planners already do much of this.
+## 6. Vape battery take-back
+- **Problem:** Disposable vapes contain lithium batteries that end up in bins, where they can start fires in waste trucks and
+  recycling plants.
+- **Idea:** Shop-counter collection + deposit, plus a supply chain that harvests the cells for reuse.
+- **Exists:** WEEE take-back obligations; check current Irish/EU rules on disposable vapes before pitching.
+  **Angle:** making return easy at the point of sale, and the value of the recovered cells.
+- **Prototype:** counter-bin mock-up + flow from return to reuse.
 
 ---
 
-## Patterns that score well
+## Picking one
+Before choosing, ask these about each idea:
+1. **Can we name the user and talk to them before 24 Oct?** If not, Human-centred design suffers.
+2. **Can we show something in 20 seconds?** A working sensor or a sharp storyboard beats slides.
+3. **Can we name the incumbent and say in one sentence why they don't solve it?**
+4. **Is there a number for the impact?** (hectares, tonnes, €, people)
 
-- **Campus as test-bed.** Trinity has tens of thousands of students and staff, halls, cafés and societies.
-  A pilot that could start here next term scores on feasibility *and* gets you into the Hub's follow-on support.
-- **Two problems, one fix.** Food waste + food insecurity; cold homes + emissions; loneliness + commuting.
-  Judges notice double impact.
-- **Behaviour > app.** "Build an app" is the most common hackathon answer. A service, a campaign, or a physical
-  system with a WhatsApp-level tech layer is often more feasible and more original.
-- **Name the incumbent.** Every idea above has someone doing something nearby. One sentence on why they don't
-  solve it protects the innovation score.
+Smoulder (#1, ideally merged with #2) passes all four if someone on the team can do basic electronics and we get one ranger or
+farmer conversation in before the day.

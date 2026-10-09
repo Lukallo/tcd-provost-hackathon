@@ -2,7 +2,8 @@
 
 Trinity Entrepreneurship Hub × ZEEUS · **Sat 24 Oct 2026, 10:00–16:00** · Main Space 102, Trinity Business School
 
-- [`IDEAS.md`](IDEAS.md) — brainstorm across the four challenge areas, scored against the judging criteria
+- [`IDEAS.md`](IDEAS.md) — concrete environmental ideas, scored against the judging criteria
+- [`WILDFIRE.md`](WILDFIRE.md) — deep dive: a wildfire sensor concept for peat and uplands vs. Silvanet
 - [`PLAN.md`](PLAN.md) — what to do before the day, the day itself, and the pitch skeleton
 
 ## Judging, at a glance
