@@ -149,3 +149,73 @@ Format: **Idea**: what it is. *Exists:* what's out there → **our angle**. *Pro
     *Exists:* volunteering sites → **built for young people who feel anxious about climate, with results shown back to them.** *Prototype:* matching flow mock-up.
 25. **Step-free nature**: trails mapped and rated for wheelchairs, buggies and limited mobility.
     *Exists:* general trail apps → **access details collected by people who use them.** *Prototype:* 3 Dublin trails mapped.
+
+---
+
+# Abstract ideas
+
+These are bigger ideas and new ways of framing a problem, not products. Each one still needs a concrete first step, because
+Feasibility counts for 20%. The "→" line is one way to make each idea concrete.
+
+## Give nature a voice
+1. **The river as a stakeholder.** Some countries have given rivers legal personhood. What if a river had a seat at the planning table?
+   → A "river delegate" role at council planning meetings, with a scorecard the delegate fills in.
+2. **Nature on the board.** Companies give nature one board seat, or one share with voting rights.
+   → A model charter + a mock AGM vote.
+3. **The future generations ombudsman.** Someone whose only job is to object on behalf of people not yet born.
+   → Wales has a Future Generations Commissioner. A student version reviews university decisions.
+4. **Speaking species.** A sensor turns a tree's or bog's data into first-person messages ("I'm thirsty", "I'm on fire").
+   → A tree or bog with a social media account. Smoulder with a personality.
+
+## Make the invisible visible
+5. **Receipts for nature.** Every purchase comes with an itemised receipt for its water, land and carbon.
+   → A mock receipt for one supermarket basket.
+6. **Carbon shadows.** AR that shows the emissions trailing behind a car, a flight or a burger.
+   → A phone-camera filter mock-up.
+7. **The sound of loss.** Recordings of a place 50 years ago compared with today: the birdsong that's missing.
+   → An audio installation or walking tour.
+8. **A memorial for extinctions.** Grieving lost species publicly, so the losses register with people.
+   → A memorial wall or an annual remembrance day for species lost from Ireland.
+
+## Change the timescale
+9. **Slow by default.** Make the low-carbon option the default and the fast or high-carbon one opt-in (slow delivery, rail
+   before flights, eco wash cycles). → One company's checkout redesigned.
+10. **A letter from 2050.** Decisions are reviewed by an imagined citizen from 2050.
+    → A decision-making tool or role-play workshop for councils and companies.
+11. **Inherit the commons.** Every child gets a share in a local wood or bog at birth that they can never sell.
+    → A trust model for one community wood.
+
+## Flip the incentives
+12. **Pay for doing nothing.** Reward people for *not* doing something: not mowing, not flying, not draining land.
+    → A "No-Mow May" payment pilot with a council.
+13. **Durability subscription.** You pay for the service (light, warmth, clean clothes), not the product, so the maker profits from things
+    that last. → A washing-machine-as-a-service model for student houses.
+14. **Waste has an owner.** Every item has a digital record of who made it, and if it's found dumped, the cost goes back to them.
+    → A QR tag + a pilot on a single product (fly-tipped mattresses).
+15. **Local currency for care.** Hours spent repairing, planting or caring earn credits you can spend locally.
+    → A time bank for one neighbourhood.
+
+## Change the norms
+16. **Make it shameful (or cool).** Turn a norm around the way smoking became uncool and recycling became normal.
+    → A campaign around disposable barbecues, fast fashion or private jets.
+17. **Ugly is premium.** Repaired, patched and second-hand goods are marked as status symbols.
+    → A "visibly mended" label + a brand partnership.
+18. **Climate as a team sport.** League tables between neighbourhoods, schools or GAA clubs for emissions cut.
+    → A county league prototype with 3 clubs.
+19. **A ritual for things.** A ceremony for objects at the end of their life (repair, pass on, say goodbye) before
+    anything is binned. → A repair café as an event people mark.
+
+## Rethink systems
+20. **Cities that grow back.** Every hard surface (car park, roof, wall) is assumed to be green unless there's a reason it can't be.
+    → An audit of one street showing how much could be green.
+21. **Fire as a tool, not an enemy.** Bring back controlled burning done by trained communities to manage fuel, instead of illegal
+    burning. → A training and permit scheme for upland farmers (pairs with Smoulder).
+22. **Food that travels in time, not distance.** Preserve local seasonal food (fermenting, drying) instead of importing it.
+    → A community preserving kitchen.
+23. **Land that votes.** Decisions about land use are weighted by what the land can sustain, not only by who owns it.
+    → A land-capacity score shown alongside planning applications.
+
+## How to pitch an abstract idea
+- **Start with the provocation** (this is the hook), **then shrink it** to a pilot that could run next term.
+- Judges score Innovation highly, but **Feasibility (20%) only rewards a concrete first step**.
+- A provocation + a working mini-prototype (e.g. #4 with a real sensor, or #5 with a printed receipt) is the strongest combination.
